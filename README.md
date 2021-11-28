@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning HTML, CSS, and Javascript.
 - 👯 I’m looking to collaborate on website development projects.
 - 💬 Ask me about Puerto Rican food.
-- 📫 How to reach me: amendez@u.rochester.edu
+- 📫 amendez@u.rochester.edu
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I love cats.
